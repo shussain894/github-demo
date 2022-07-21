@@ -1,2 +1,1 @@
-# github-demo
-simple demo repository
+Python and Terraform scripts
